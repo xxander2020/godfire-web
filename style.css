@@ -1,0 +1,42 @@
+.head-banner{
+    margin: 0;
+    background-color: #848484;
+    padding-top: 8rem;
+    padding-bottom: 8rem;
+    background-image: url('https://i.pinimg.com/originals/9f/66/0f/9f660f6d0d09d80f6cc039d275567deb.png');
+    background-size: cover;
+    background-position: center;
+    background-blend-mode: multiply;
+}
+
+body {
+    background-image:url(./img/background.png);
+}
+
+.img-centrata {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.bi{
+    font-size: 60px;
+}
+
+.sezione-immagini .immagine{
+    min-height: 30rem;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.sezione-immagini .testo{
+    padding: 7rem;
+}
+
+@media screen and (min-width: 768px){
+    .head-banner{
+        padding-top: 12rem;
+        padding-bottom: 12rem;
+    }
+}
+
