@@ -1,2 +1,2 @@
-# godfire-web 
-Godfire Bot Discord
+# shrek-web 
+shrek Bot Discord
